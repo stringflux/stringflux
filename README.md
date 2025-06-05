@@ -12,10 +12,12 @@ Whether you’re decoding a minified Base64-encoded JSON string or trying to une
 
 This tool was born out of frustration — bouncing between multiple tabs and tools just to decode or reformat strings while debugging or analyzing logs. String Flux centralizes that workflow and gives you a smooth, customizable, and extensible experience.
 
+Even for one step transforms like JSON format, Base64 encoding, String Flux also helps to avoid user to search and choose online tools. String Flux can be the one place for all common string transforms for developers.
+
 ### Key Features
 
 - **Smart detection** of input type — get transformation suggestions instantly  
-- **Flux pipeline**: Chain multiple transformations together and view results at each step  
+- **Transform pipeline**: Chain multiple transformations together and view results at each step  
 - **Supports multiple formats** like Base64 encode / decode, JSON format, URL encode / decode, JSON to YAML / XML / CSV, and more  
 - **Fast and private** — everything happens in your browser
 

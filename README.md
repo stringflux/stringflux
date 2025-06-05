@@ -8,6 +8,10 @@ String Flux is a powerful, web-based tool that helps you transform strings — l
 
 Whether you’re decoding a minified Base64-encoded JSON string or trying to unescape a stack trace from a log file, String Flux makes it seamless.
 
+## Why String Flux?
+
+This tool was born out of frustration — bouncing between multiple tabs and tools just to decode or reformat strings while debugging or analyzing logs. String Flux centralizes that workflow and gives you a smooth, customizable, and extensible experience.
+
 ### Key Features
 
 - **Smart detection** of input type — get transformation suggestions instantly  
@@ -21,7 +25,8 @@ Try it now: [https://stringflux.io](https://stringflux.io)
 
 Here’s a [quick demo](https://stringflux.io/?s=qzUAxXvv) of decoding Base64 and formatting JSON in seconds.
 
-TBD: add GIF demo
+![GIF Demo](./demo-base64-json.gif)
+
 
 ## Found a Bug? Got Feedback?
 
@@ -33,8 +38,3 @@ Please feel free to open an [issue](https://github.com/stringflux/stringflux/iss
 - Performance or edge-case issues
 
 Your insights help us make the tool better for everyone!
-
-## Why String Flux?
-
-This tool was born out of frustration — bouncing between multiple tabs and tools just to decode or reformat strings while debugging or analyzing logs. String Flux centralizes that workflow and gives you a smooth, customizable, and extensible experience.
-
